@@ -1,0 +1,18 @@
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\net5.0-windows\Bloc de Notas.exe
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\net5.0-windows\Bloc de Notas.deps.json
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\net5.0-windows\Bloc de Notas.runtimeconfig.json
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\net5.0-windows\Bloc de Notas.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\net5.0-windows\Bloc de Notas.dll
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\net5.0-windows\ref\Bloc de Notas.dll
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\net5.0-windows\Bloc de Notas.pdb
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc de Notas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc_de_Notas.Form1.resources
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc de Notas.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc de Notas.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc de Notas.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc de Notas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc de Notas.dll
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\ref\Bloc de Notas.dll
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc de Notas.pdb
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\net5.0-windows\Bloc de Notas.genruntimeconfig.cache
